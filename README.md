@@ -46,6 +46,3 @@ Shows current time at the top of the app
 Displays current date below the time
 
 Updates automatically in real time
-
-Purpose:
-Gives immediate time awareness and reinforces the idea of time tracking.
