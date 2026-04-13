@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Time Mark',
+      title: 'Time Mark',   //name of the app
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.system, // Supports dark mode automatically
       theme: ThemeData(
